@@ -1,4 +1,4 @@
-# Long Covid in Singapore
+# Long Covid in Singapore (WIP)
 
 ## Goals
 1. Collate and present evidence based research about Long Covid, especially in a SG context
@@ -11,9 +11,9 @@
 1. News articles and other web content linked must be supported by evidence based research. Where available, the research will also be linked.
 
 # What is Long Covid?
-People with COVID-19 who have lingering symptoms for weeks or months after they begin to recover.  
-Source: https://www.webmd.com/lung/what-is-long-covid-pasc  
-*(WebMD review: Sept 2 2021, Sourced: Sept 7 2021)*
+COVID-19 symptoms can sometimes persist for months. The virus can damage the lungs, heart and brain, which increases the risk of long-term health problems.
+Source: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351
+*(Published: May 06, 2021, Sourced: Sept 7 2021)*
 
 # Vaccination and Long Covid
 https://www.youtube.com/watch?v=7rKqTU2G0AM
@@ -61,5 +61,11 @@ https://www.straitstimes.com/singapore/covid-19s-long-tail-what-is-it-and-why-do
 https://www.bbc.com/news/uk-scotland-57693637  
 *(Published July 12 2021, Sourced: Sept 7 2021)*
 
+# How to contribute:
+- Submitting evidence based research, news articles or other web content about Long Covid
+- Typos / Broken links
+- Feedback / ideas on presentation
 
+Either raise a github issue or email me whataboutlongcovid@protonmail.com
 
+Thank you for helping!
